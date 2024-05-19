@@ -2,7 +2,9 @@
 
 ## Purpose and Mission Statement
 
-The purpose of our database is to maintain a music distribution and streaming platform’s data on the production and upload of digital audio files; users’ interaction, purchase, and downloading of digital audio files; and record engagement among users. The database keeps the purchase, download, like, and listen history of users and the accumulated income of labels. Data records related to social features and digital files are available to all users and labels who release music. Sensitive information related to invoice numbers in purchasing history and account registration is private to the users themselves. The labels who receive payment for transactions have access to purchase and sales data. 
+This database system aims to facilitate the sharing and buying of digital audio files online as well as interaction among users. The database system serves a variety of users including listeners, musicians, and labels. Part of the data records are public to all audiences while some of the records are private to users themselves.
+
+The purpose of this database is to maintain a music distribution and streaming platform’s data on the production and upload of digital audio files; users’ interaction, purchase, and downloading of digital audio files; and record engagement among users. The database keeps the purchase, download, like, and listen history of users and the accumulated income of labels. Data records related to social features and digital files are available to all users and labels who release music. Sensitive information related to invoice numbers in purchasing history and account registration is private to the users themselves. The labels who receive payment for transactions have access to purchase and sales data. 
 
 ## Business Problems Addressed
 
